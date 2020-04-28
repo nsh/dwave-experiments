@@ -1,3 +1,3 @@
 # dwave-experiments
 
-NSH
+* Added GOTO Chicago 2020 examples and slides
