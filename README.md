@@ -1,3 +1,5 @@
 # dwave-experiments
 
-* Added GOTO Chicago 2020 examples and slides
+## Presentations and code samples
+
+* [GOTO Chicago 2020 examples and slides](./goto_chicago_2020)
